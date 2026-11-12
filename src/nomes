@@ -1,51 +1,14 @@
 ─ public/
 │  
-│
 ├── src/
 │   │
-│   ├── components/
-│   │   ├── Sidebar.tsx
-│   │   ├── Header.tsx
-│   │   ├── Button.tsx
-│   │   ├── Modal.tsx
-│   │   ├── Input.tsx
-│   │   ├── Card.tsx
-│   │   ├── Calendar.tsx
-│   │   └── ProtectedRoute.tsx
-│   │
 │   ├── pages/
-│   │   ├── Login.tsx
-│   │   ├── Cadastro.tsx
-│   │   ├── Dashboard.tsx
-│   │   │
 │   │   ├── clientes/
-│   │   │   ├── Clientes.tsx
-│   │   │   ├── CadastrarCliente.tsx
-│   │   │   └── EditarCliente.tsx
-│   │   │
 │   │   ├── compromissos/
-│   │   │   ├── Compromissos.tsx
-│   │   │   ├── CadastrarCompromisso.tsx
-│   │   │   └── EditarCompromisso.tsx
-│   │   │
 │   │   ├── tarefas/
-│   │   │   ├── Tarefas.tsx
-│   │   │   ├── CadastrarTarefa.tsx
-│   │   │   └── EditarTarefa.tsx
-│   │   │
 │   │   └── historico/
-│   │       └── Historico.tsx
-│   │
 │   ├── services/
-│   │   ├── authService.ts
-│   │   ├── clienteService.ts
-│   │   ├── compromissoService.ts
-│   │   ├── tarefaService.ts
-│   │   └── historicoService.ts
-│   │
 │   ├── hooks/
-│   │   └── useAuth.ts
-│   │
 │   ├── contexts/
 │   │   └── AuthContext.tsx
 │   │
