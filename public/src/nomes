@@ -10,24 +10,10 @@
 │   ├── services/
 │   ├── hooks/
 │   ├── contexts/
-│   │   └── AuthContext.tsx
-│   │
 │   ├── lib/
-│   │   └── supabase.ts
-│   │
 │   ├── types/
-│   │   ├── usuario.ts
-│   │   ├── cliente.ts
-│   │   ├── compromisso.ts
-│   │   └── tarefa.ts
-│   │
 │   ├── styles/
-│   │   ├── global.css
-│   │   ├── auth.css
-│   │   ├── dashboard.css
-│   │   ├── componentes.css
-│   │   └── responsivo.css
-│   │
+|   |
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── vite-env.d.ts
